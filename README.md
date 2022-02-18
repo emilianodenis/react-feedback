@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Learning from this tuto: https://weareadaptive.udemy.com/course/react-front-to-back-2022/learn/lecture/29768994#overview
+### Learning from this tuto
+https://weareadaptive.udemy.com/course/react-front-to-back-2022/learn/lecture/29768994#overview
 
 ## Available Scripts
 
